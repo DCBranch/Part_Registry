@@ -7,6 +7,7 @@ A part list editing program made in Java and utilizing the OpenFX's JavaFX libra
  * [Design](#design)
 * [Technologies](#technologies)
 * [Possible Updates](#possible-updates)
+* [Launch](#launch)
 
 ## General Info
 ### Program Description
@@ -31,10 +32,13 @@ Viewing the list is done on the "View" tab. Part type or "All" is selectable via
 
 ## Technologies
 Used to create the Part Registry:
-
-* JDK 14.0.2
-* OpenJFX 14.0.2.1
+* JDK 15.0.1
+* Apache Maven 3.6.3
+* OpenJFX 15.0.1
 * SceneBuilder 11.0.1
+
+Used to package executable file:
+* Launch4j 3.12
 
 ## Possible Updates
 Here is a list of bug fixes, changes, or new additions that may come:
@@ -54,3 +58,6 @@ Here is a list of bug fixes, changes, or new additions that may come:
 * Have a setter for the delete window's focal part name and have it get inserted into its label
 * JDBC/RDBMS implementation
 * ElasticSearch implemention
+
+## Launch
+To run the game project; download, unzip, and run "Part Registry.exe" inside the project folder.
