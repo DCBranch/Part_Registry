@@ -60,4 +60,4 @@ Here is a list of bug fixes, changes, or new additions that may come:
 * ElasticSearch implemention
 
 ## Launch
-To run the game project; download, unzip, and run "Part Registry.exe" inside the project folder.
+To run the project; download, unzip, and run "Part Registry.exe" inside the project folder.
